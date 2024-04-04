@@ -35,6 +35,23 @@ Esse pacote está em desenvolvimento. Estamos trabalhando para deixá-lo o mais 
 
 ### Tipagem
 
-* PCCLIENT (em densenvolvimento)
-* PCPEDC (em densenvolvimento)
-* PCPEDI (em densenvolvimento)
+* PCBAIRRO
+* PCCATEGORIA
+* PCCIDADE
+* PCCLIENT
+* PCBANCO
+* PCCOB
+* PCCONTA
+* PCCONTATO
+* PCEMPR
+* PCESTADO
+* PCFILIAL
+* PCFORNEC
+* PCMARCA
+* PCPAIS
+* PCPEDC (em desenvolvimento)
+* PCPEDI (em desenvolvimento)
+* PCPRODFILIAL
+* PCPRODUT
+* PCSECAO
+* PCTRIBUT
